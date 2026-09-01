@@ -9,7 +9,7 @@
 
 ПОИГРАТЬ В ТЕСТОВУЮ СБОРКУ / PLAY IN THE TEST-GAME: https://gamejolt.com/games/gamekinginteractive/1093534
 
-# 🔥 THE FIRST ONE: ПЕРВОМУ ИГРОКУ ПРИГОТОВИТСЯ В...
+# 🔥 THE FIRST ONE: БУДЬТЕ ГОТОВЫ...
 
 > *код игры не выкладывается и не распространяется в паблики.
 
