@@ -9,7 +9,7 @@
 
 ПОИГРАТЬ В ТЕСТОВУЮ СБОРКУ / PLAY IN THE TEST-GAME: https://gamejolt.com/games/gamekinginteractive/1093534
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" style="max-width: 100%;"> THE FIRST ONE: ПЕРВЫЙ ИГРОК ГОТОВ ( The First One: Player ready)
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" style="max-width: 100%;"> THE FIRST ONE: ПЕРВЫЙ ИГРОК ГОТОВ (или на английском The First One: Player ready)
 
 > *код игры не выкладывается и не распространяется в паблики.
 
